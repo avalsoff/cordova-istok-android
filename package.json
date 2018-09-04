@@ -4,7 +4,8 @@
   "displayName": "Istok",
   "cordova": {
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ],
     "plugins": {
       "cordova-android-support-gradle-release": {},
@@ -20,16 +21,17 @@
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-network-information": {},
       "cordova-plugin-splashscreen": {},
-      "cordova-plugin-statusbar": {},
       "cordova-plugin-vibration": {},
       "cordova-plugin-whitelist": {},
       "cordova-plugin-local-notification": {},
-      "cordova-plugin-x-socialsharing": {}
+      "cordova-plugin-x-socialsharing": {},
+      "cordova-plugin-statusbar": {}
     }
   },
   "dependencies": {
     "cordova-android": "^7.0.0",
     "cordova-android-support-gradle-release": "^1.4.4",
+    "cordova-ios": "^4.4.0",
     "cordova-plugin-battery-status": "~1.1.1",
     "cordova-plugin-console": "~1.0.2",
     "cordova-plugin-contacts": "~2.0.1",
@@ -40,12 +42,12 @@
     "cordova-plugin-geolocation": "~2.1.0",
     "cordova-plugin-globalization": "~1.0.3",
     "cordova-plugin-inappbrowser": "~1.3.0",
+    "cordova-plugin-local-notification": "https://github.com/katzer/cordova-plugin-local-notifications.git",
     "cordova-plugin-network-information": "~1.2.0",
     "cordova-plugin-splashscreen": "~3.2.1",
-    "cordova-plugin-statusbar": "~2.1.2",
+    "cordova-plugin-statusbar": "git+https://github.com/apache/cordova-plugin-statusbar.git",
     "cordova-plugin-vibration": "~2.1.0",
     "cordova-plugin-whitelist": "~1.2.1",
-    "cordova-plugin-local-notification": "https://github.com/katzer/cordova-plugin-local-notifications.git",
     "cordova-plugin-x-socialsharing": "~5.4.1"
   }
 }

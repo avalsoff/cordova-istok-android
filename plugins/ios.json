@@ -1,0 +1,79 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-android-support-gradle-release": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "tech.hiddenpool.istok"
+    }
+  }
+}
